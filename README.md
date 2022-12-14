@@ -1,3 +1,3 @@
 # CSCI-5832
 
-will add stuff here later
+Github Repo Legal NER: https://github.com/Legal-NLP-EkStep/legal_NER
